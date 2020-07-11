@@ -1,2 +1,2 @@
 # diff-checker
-![alt text](https://ibb.co/FBZkYcs)
+![Screenshot](https://raw.githubusercontent.com/bot9496/diff-checker/master/screenshot.png)
