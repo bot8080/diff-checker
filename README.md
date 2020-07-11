@@ -1,2 +1,2 @@
 # diff-checker
-<img src="https://ibb.co/FBZkYcs">
+![alt text](https://ibb.co/FBZkYcs)
